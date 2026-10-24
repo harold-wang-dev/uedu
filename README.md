@@ -215,7 +215,7 @@ pytest tests/ -v
 
 ## About
 
-UEDU was developed by Harold W., a Grade 11 student in British Columbia, Canada, as a Health Sciences research project for the Greater Vancouver Regional Science Fair (GVRSF 2026).
+UEDU was developed by Harold W. and James W., Grade 11 students in British Columbia, Canada, as a research project for the Greater Vancouver Regional Science Fair (GVRSF 2026), where it received a Divisional Bronze Medal in Senior Computing.
 
 The goal is to give educators a transparent, privacy-respecting tool for early identification of student mental health concerns, so that no student's silent distress goes unnoticed.
 
